@@ -9,8 +9,6 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.0.0",
-    "lite-server": "^2.6.1",
-    "live-server": "^1.2.2",
     "postcss": "^8.0.0",
     "tailwindcss": "^2.0.0"
   }
